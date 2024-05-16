@@ -1,0 +1,8 @@
+fairseq/
+Finetuning/transformer
+indic_nlp_resources/
+venv/
+Finetuning/word_prob_dicts.zip
+Finetuning/indicxlit-en-indic-v1.0.zip
+Finetuning/word_prob_dicts
+inference/

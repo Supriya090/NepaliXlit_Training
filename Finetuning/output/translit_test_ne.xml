@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransliterationCorpus SourceLang="Nepali" TargetLang="English" CorpusID="Test">
+	<Name ID="1">
+		<SourceName>__ne__ b a c h n e</SourceName>
+		<TargetName ID="1">ब च ् न े</TargetName>
+	</Name>
+	<Name ID="2">
+		<SourceName>__ne__ s a r d a i n</SourceName>
+		<TargetName ID="1">स र ् द ै न</TargetName>
+	</Name>
+	<Name ID="3">
+		<SourceName>__ne__ u p a u k y a</SourceName>
+		<TargetName ID="1">उ प उ क ् य</TargetName>
+	</Name>
+	<Name ID="4">
+		<SourceName>__ne__ j a n u</SourceName>
+		<TargetName ID="1">ज ा न ु</TargetName>
+	</Name>
+	<Name ID="5">
+		<SourceName>__ne__ k e h o</SourceName>
+		<TargetName ID="1">क े ह ो</TargetName>
+	</Name>
+	<Name ID="6">
+		<SourceName>__ne__ g r a b h p a t a n</SourceName>
+		<TargetName ID="1">ग र ् भ प त न</TargetName>
+	</Name>
+	<Name ID="7">
+		<SourceName>__ne__ l a g e x</SourceName>
+		<TargetName ID="1">ल ा ग े छ</TargetName>
+	</Name>
+	<Name ID="8">
+		<SourceName>__ne__ a p n a y d a</SourceName>
+		<TargetName ID="1">अ प न ा उ द ा</TargetName>
+	</Name>
+	<Name ID="9">
+		<SourceName>__ne__ p o s t n a t a l</SourceName>
+		<TargetName ID="1">प ो स ् ट न े ट ल</TargetName>
+	</Name>
+	<Name ID="10">
+		<SourceName>__ne__ g a r b a b a t i</SourceName>
+		<TargetName ID="1">ग र ् भ व त ी</TargetName>
+	</Name>
+	<Name ID="11">
+		<SourceName>__ne__ d u k h c h a</SourceName>
+		<TargetName ID="1">द ु ख ् छ</TargetName>
+	</Name>
+	<Name ID="12">
+		<SourceName>__ne__ v a n x a n n</SourceName>
+		<TargetName ID="1">भ न ् छ न ्</TargetName>
+	</Name>
+	<Name ID="13">
+		<SourceName>__ne__ s a m m m</SourceName>
+		<TargetName ID="1">स म ् म</TargetName>
+	</Name>
+	<Name ID="14">
+		<SourceName>__ne__ s a m b h a d h a</SourceName>
+		<TargetName ID="1">स म ् भ द ा</TargetName>
+	</Name>
+	<Name ID="15">
+		<SourceName>__ne__ k u n a d a</SourceName>
+		<TargetName ID="1">क ु न ् द ा</TargetName>
+	</Name>
+	<Name ID="16">
+		<SourceName>__ne__ p r a s a n n</SourceName>
+		<TargetName ID="1">प ् र स न ् न</TargetName>
+	</Name>
+	<Name ID="17">
+		<SourceName>__ne__ d h u k n u</SourceName>
+		<TargetName ID="1">ढ ु क ् न ु</TargetName>
+	</Name>
+	<Name ID="18">
+		<SourceName>__ne__ b a r a m b a r</SourceName>
+		<TargetName ID="1">ब ा र म ् ब र</TargetName>
+	</Name>
+	<Name ID="19">
+		<SourceName>__ne__ k a t t i</SourceName>
+		<TargetName ID="1">क त ् त ि</TargetName>
+	</Name>
+	<Name ID="20">
+		<SourceName>__ne__ c h a k k u</SourceName>
+		<TargetName ID="1">च क ् क ु</TargetName>
+	</Name>
+	<Name ID="21">
+		<SourceName>__ne__ e e t i</SourceName>
+		<TargetName ID="1">य त ि</TargetName>
+	</Name>
+	<Name ID="22">
+		<SourceName>__ne__ b a s n</SourceName>
+		<TargetName ID="1">ब स ् न</TargetName>
+	</Name>
+	<Name ID="23">
+		<SourceName>__ne__ s a t o</SourceName>
+		<TargetName ID="1">स ा ट ो</TargetName>
+	</Name>
+	<Name ID="24">
+		<SourceName>__ne__ p a r k a r</SourceName>
+		<TargetName ID="1">प र ् क ा र</TargetName>
+	</Name>
+	<Name ID="25">
+		<SourceName>__ne__ k a t h e</SourceName>
+		<TargetName ID="1">क थ े</TargetName>
+	</Name>
+	<Name ID="26">
+		<SourceName>__ne__ s a m a s s y a</SourceName>
+		<TargetName ID="1">स म स ् य ा</TargetName>
+	</Name>
+	<Name ID="27">
+		<SourceName>__ne__ e k d a m a i</SourceName>
+		<TargetName ID="1">ए क द म ै</TargetName>
+	</Name>
+	<Name ID="28">
+		<SourceName>__ne__ s a n k e t</SourceName>
+		<TargetName ID="1">स ं क े त</TargetName>
+	</Name>
+	<Name ID="29">
+		<SourceName>__ne__ s a l l a h a</SourceName>
+		<TargetName ID="1">स ल ् ल ा ह</TargetName>
+	</Name>
+	<Name ID="30">
+		<SourceName>__ne__ i u c d</SourceName>
+		<TargetName ID="1">आ ई य ू स ी ड ी</TargetName>
+	</Name>
+	<Name ID="31">
+		<SourceName>__ne__ b h a n k o</SourceName>
+		<TargetName ID="1">भ न क ो</TargetName>
+	</Name>
+	<Name ID="32">
+		<SourceName>__ne__ v h a y k o</SourceName>
+		<TargetName ID="1">भ ए क ो</TargetName>
+	</Name>
+	<Name ID="33">
+		<SourceName>__ne__ t h u l o</SourceName>
+		<TargetName ID="1">ठ ू ल ो</TargetName>
+	</Name>
+	<Name ID="34">
+		<SourceName>__ne__ k u r a h a r u</SourceName>
+		<TargetName ID="1">क ु र ा ह र ू</TargetName>
+	</Name>
+	<Name ID="35">
+		<SourceName>__ne__ k a h e l a</SourceName>
+		<TargetName ID="1">क ह ि ल ा</TargetName>
+	</Name>
+	<Name ID="36">
+		<SourceName>__ne__ a s u r a x i t a</SourceName>
+		<TargetName ID="1">अ स ु र क ् ष ि त</TargetName>
+	</Name>
+	<Name ID="37">
+		<SourceName>__ne__ g a r b a t i</SourceName>
+		<TargetName ID="1">ग र ् व त ी</TargetName>
+	</Name>
+	<Name ID="38">
+		<SourceName>__ne__ j o k h i m</SourceName>
+		<TargetName ID="1">ज ो ख ि म</TargetName>
+	</Name>
+	<Name ID="39">
+		<SourceName>__ne__ g a r n u u</SourceName>
+		<TargetName ID="1">ग र ् न ु</TargetName>
+	</Name>
+	<Name ID="40">
+		<SourceName>__ne__ d h i l a</SourceName>
+		<TargetName ID="1">ढ ि ल ा</TargetName>
+	</Name>
+	<Name ID="41">
+		<SourceName>__ne__ p e t d u k h x a</SourceName>
+		<TargetName ID="1">प े ट द ु ख ् छ</TargetName>
+	</Name>
+	<Name ID="42">
+		<SourceName>__ne__ b u h a r i k o</SourceName>
+		<TargetName ID="1">ब ु ह ा र ी क ो</TargetName>
+	</Name>
+	<Name ID="43">
+		<SourceName>__ne__ a p n a u n u</SourceName>
+		<TargetName ID="1">अ प न ा उ न ु</TargetName>
+	</Name>
+	<Name ID="44">
+		<SourceName>__ne__ k h u t t a</SourceName>
+		<TargetName ID="1">ख ु ट ् ट ा</TargetName>
+	</Name>
+	<Name ID="45">
+		<SourceName>__ne__ p a l a u n u k o</SourceName>
+		<TargetName ID="1">प ल ा उ न ु क ो</TargetName>
+	</Name>
+	<Name ID="46">
+		<SourceName>__ne__ j a n a k r i</SourceName>
+		<TargetName ID="1">ज ा न क ा र ी</TargetName>
+	</Name>
+	<Name ID="47">
+		<SourceName>__ne__ k a h i l a i</SourceName>
+		<TargetName ID="1">क ह ि ल ै</TargetName>
+	</Name>
+	<Name ID="48">
+		<SourceName>__ne__ k i s h o r</SourceName>
+		<TargetName ID="1">क ि श ो र</TargetName>
+	</Name>
+	<Name ID="49">
+		<SourceName>__ne__ s a m b h a v n a</SourceName>
+		<TargetName ID="1">स म ् भ ा व न ा</TargetName>
+	</Name>
+	<Name ID="50">
+		<SourceName>__ne__ a n i i</SourceName>
+		<TargetName ID="1">अ न ि</TargetName>
+	</Name>
+	<Name ID="51">
+		<SourceName>__ne__ h u d a i b a</SourceName>
+		<TargetName ID="1">ह ु द ै न</TargetName>
+	</Name>
+	<Name ID="52">
+		<SourceName>__ne__ s a k i y a l a</SourceName>
+		<TargetName ID="1">स क ि ए ल ा</TargetName>
+	</Name>
+	<Name ID="53">
+		<SourceName>__ne__ s h i k s h y a</SourceName>
+		<TargetName ID="1">श ि क ् ष ा</TargetName>
+	</Name>
+	<Name ID="54">
+		<SourceName>__ne__ a a f n a u n e</SourceName>
+		<TargetName ID="1">आ फ ् न ा उ न े</TargetName>
+	</Name>
+	<Name ID="55">
+		<SourceName>__ne__ o u m e r</SourceName>
+		<TargetName ID="1">उ म े र</TargetName>
+	</Name>
+	<Name ID="56">
+		<SourceName>__ne__ l a g a y e k o</SourceName>
+		<TargetName ID="1">ल ग ा ए क ो</TargetName>
+	</Name>
+	<Name ID="57">
+		<SourceName>__ne__ b e b a s t h a</SourceName>
+		<TargetName ID="1">व ् य व स ् थ ा</TargetName>
+	</Name>
+	<Name ID="58">
+		<SourceName>__ne__ s a m b a n d h</SourceName>
+		<TargetName ID="1">स म ् ब न ् ध</TargetName>
+	</Name>
+	<Name ID="59">
+		<SourceName>__ne__ g h a r b a t i</SourceName>
+		<TargetName ID="1">घ र ब ा ट ी</TargetName>
+	</Name>
+	<Name ID="60">
+		<SourceName>__ne__ g a r a u n e</SourceName>
+		<TargetName ID="1">ग र ा उ न े</TargetName>
+	</Name>
+	<Name ID="61">
+		<SourceName>__ne__ s a m b h a w a n a</SourceName>
+		<TargetName ID="1">स म ् भ ा व न ा</TargetName>
+	</Name>
+	<Name ID="62">
+		<SourceName>__ne__ g a r x a a n</SourceName>
+		<TargetName ID="1">ग र ् छ न ्</TargetName>
+	</Name>
+	<Name ID="63">
+		<SourceName>__ne__ p r a b h a b</SourceName>
+		<TargetName ID="1">प ् र भ ा ब</TargetName>
+	</Name>
+	<Name ID="64">
+		<SourceName>__ne__ n e p a l m a a</SourceName>
+		<TargetName ID="1">न े प ा ल म ा</TargetName>
+	</Name>
+	<Name ID="65">
+		<SourceName>__ne__ p a r y a p t a</SourceName>
+		<TargetName ID="1">प र ् य ा प ् त</TargetName>
+	</Name>
+	<Name ID="66">
+		<SourceName>__ne__ v a a g</SourceName>
+		<TargetName ID="1">भ ा ग</TargetName>
+	</Name>
+	<Name ID="67">
+		<SourceName>__ne__ b h a n n e</SourceName>
+		<TargetName ID="1">भ न ् न े</TargetName>
+	</Name>
+	<Name ID="68">
+		<SourceName>__ne__ b a d h e m a</SourceName>
+		<TargetName ID="1">ब ढ े म ा</TargetName>
+	</Name>
+	<Name ID="69">
+		<SourceName>__ne__ c h a h n a</SourceName>
+		<TargetName ID="1">च ा ह न ा</TargetName>
+	</Name>
+	<Name ID="70">
+		<SourceName>__ne__ d e k h i n x a</SourceName>
+		<TargetName ID="1">द े ख ि न ् छ</TargetName>
+	</Name>
+	<Name ID="71">
+		<SourceName>__ne__ n a p u g i</SourceName>
+		<TargetName ID="1">न प ु ग ी</TargetName>
+	</Name>
+	<Name ID="72">
+		<SourceName>__ne__ g a r n e t</SourceName>
+		<TargetName ID="1">ग ा र ् न े ट</TargetName>
+	</Name>
+	<Name ID="73">
+		<SourceName>__ne__ m e w a</SourceName>
+		<TargetName ID="1">म े व ा</TargetName>
+	</Name>
+	<Name ID="74">
+		<SourceName>__ne__ g a r b h w a t i</SourceName>
+		<TargetName ID="1">ग र ् भ व त ी</TargetName>
+	</Name>
+	<Name ID="75">
+		<SourceName>__ne__ m e n o p a u s e</SourceName>
+		<TargetName ID="1">म े न ो प ा उ ज</TargetName>
+	</Name>
+	<Name ID="76">
+		<SourceName>__ne__ b a r s h</SourceName>
+		<TargetName ID="1">व र ् ष</TargetName>
+	</Name>
+	<Name ID="77">
+		<SourceName>__ne__ m a n a s i k a</SourceName>
+		<TargetName ID="1">म ा न स ि क</TargetName>
+	</Name>
+	<Name ID="78">
+		<SourceName>__ne__ b i b h a</SourceName>
+		<TargetName ID="1">व ि व ा ह</TargetName>
+	</Name>
+	<Name ID="79">
+		<SourceName>__ne__ p a y e m a</SourceName>
+		<TargetName ID="1">प ा ए म ा</TargetName>
+	</Name>
+	<Name ID="80">
+		<SourceName>__ne__ p a u n r</SourceName>
+		<TargetName ID="1">प ा उ न</TargetName>
+	</Name>
+	<Name ID="81">
+		<SourceName>__ne__ a a p a n g a</SourceName>
+		<TargetName ID="1">अ प ा ङ ् ग</TargetName>
+	</Name>
+	<Name ID="82">
+		<SourceName>__ne__ p u r u s h</SourceName>
+		<TargetName ID="1">प ु र ु ष</TargetName>
+	</Name>
+	<Name ID="83">
+		<SourceName>__ne__ e k s h y a</SourceName>
+		<TargetName ID="1">इ च ् छ ा</TargetName>
+	</Name>
+	<Name ID="84">
+		<SourceName>__ne__ b a l i k a</SourceName>
+		<TargetName ID="1">ब ा ल ि क ा</TargetName>
+	</Name>
+	<Name ID="85">
+		<SourceName>__ne__ j a n c h a</SourceName>
+		<TargetName ID="1">ज ा ँ च</TargetName>
+	</Name>
+	<Name ID="86">
+		<SourceName>__ne__ s h y a a r</SourceName>
+		<TargetName ID="1">स ् य ा ह ा र</TargetName>
+	</Name>
+	<Name ID="87">
+		<SourceName>__ne__ b a c h h</SourceName>
+		<TargetName ID="1">ब च ् च ा</TargetName>
+	</Name>
+	<Name ID="88">
+		<SourceName>__ne__ g a r i n</SourceName>
+		<TargetName ID="1">ग र ि न ्</TargetName>
+	</Name>
+	<Name ID="89">
+		<SourceName>__ne__ s a m d b a n d h a</SourceName>
+		<TargetName ID="1">स म ् ब न ् ध</TargetName>
+	</Name>
+	<Name ID="90">
+		<SourceName>__ne__ h a n d a i n a</SourceName>
+		<TargetName ID="1">ह ँ द ै न</TargetName>
+	</Name>
+	<Name ID="91">
+		<SourceName>__ne__ c h a h a n x</SourceName>
+		<TargetName ID="1">च ा ह न ् छ</TargetName>
+	</Name>
+	<Name ID="92">
+		<SourceName>__ne__ l a g d a i n a</SourceName>
+		<TargetName ID="1">ल ा ग ् द ै न</TargetName>
+	</Name>
+	<Name ID="93">
+		<SourceName>__ne__ d u k h d a</SourceName>
+		<TargetName ID="1">द ु ख ् द ा</TargetName>
+	</Name>
+	<Name ID="94">
+		<SourceName>__ne__ m n a x e</SourceName>
+		<TargetName ID="1">म ा न ् छ े</TargetName>
+	</Name>
+	<Name ID="95">
+		<SourceName>__ne__ y o u n a</SourceName>
+		<TargetName ID="1">य ौ न</TargetName>
+	</Name>
+	<Name ID="96">
+		<SourceName>__ne__ u t p a n n a</SourceName>
+		<TargetName ID="1">उ त ् प न ् न</TargetName>
+	</Name>
+	<Name ID="97">
+		<SourceName>__ne__ b a g n u</SourceName>
+		<TargetName ID="1">ब ग ् न ु</TargetName>
+	</Name>
+	<Name ID="98">
+		<SourceName>__ne__ s a w a d h a n</SourceName>
+		<TargetName ID="1">स ा व ध ा न</TargetName>
+	</Name>
+	<Name ID="99">
+		<SourceName>__ne__ h a a t</SourceName>
+		<TargetName ID="1">ह ा त</TargetName>
+	</Name>
+	<Name ID="100">
+		<SourceName>__ne__ r o j c h a</SourceName>
+		<TargetName ID="1">र ो ज ् छ</TargetName>
+	</Name>
+	<Name ID="101">
+		<SourceName>__ne__ w a r i m a</SourceName>
+		<TargetName ID="1">व ा र ी म ा</TargetName>
+	</Name>
+	<Name ID="102">
+		<SourceName>__ne__ a a b s t h a</SourceName>
+		<TargetName ID="1">अ व स ् थ ा</TargetName>
+	</Name>
+	<Name ID="103">
+		<SourceName>__ne__ v a i e k o</SourceName>
+		<TargetName ID="1">भ ए क ो</TargetName>
+	</Name>
+	<Name ID="104">
+		<SourceName>__ne__ n a v a y a</SourceName>
+		<TargetName ID="1">न भ ए</TargetName>
+	</Name>
+	<Name ID="105">
+		<SourceName>__ne__ s w a s t h</SourceName>
+		<TargetName ID="1">स ् व स ् थ</TargetName>
+	</Name>
+	<Name ID="106">
+		<SourceName>__ne__ m i l d a e n a</SourceName>
+		<TargetName ID="1">म ि ल ् द ै न</TargetName>
+	</Name>
+	<Name ID="107">
+		<SourceName>__ne__ k h a n e y</SourceName>
+		<TargetName ID="1">ख ा न े</TargetName>
+	</Name>
+	<Name ID="109">
+		<SourceName>__ne__ u t t e j i t</SourceName>
+		<TargetName ID="1">उ त ् त े ज ि त</TargetName>
+	</Name>
+	<Name ID="110">
+		<SourceName>__ne__ v a y a m a</SourceName>
+		<TargetName ID="1">भ ए म ा</TargetName>
+	</Name>
+	<Name ID="111">
+		<SourceName>__ne__ n a h o s</SourceName>
+		<TargetName ID="1">न ह ो स ्</TargetName>
+	</Name>
+	<Name ID="112">
+		<SourceName>__ne__ m a n a w a r i</SourceName>
+		<TargetName ID="1">म न व ा र ी</TargetName>
+	</Name>
+	<Name ID="113">
+		<SourceName>__ne__ s a k d a i n i n</SourceName>
+		<TargetName ID="1">स क ् द ै न ि न ्</TargetName>
+	</Name>
+	<Name ID="114">
+		<SourceName>__ne__ x e u</SourceName>
+		<TargetName ID="1">छ े उ</TargetName>
+	</Name>
+	<Name ID="115">
+		<SourceName>__ne__ v h a n a k o</SourceName>
+		<TargetName ID="1">भ न ा क ो</TargetName>
+	</Name>
+	<Name ID="116">
+		<SourceName>__ne__ v i t t r a</SourceName>
+		<TargetName ID="1">भ ि त ् र</TargetName>
+	</Name>
+	<Name ID="117">
+		<SourceName>__ne__ t e s m a d h y e</SourceName>
+		<TargetName ID="1">त ् य स म ध ् य े</TargetName>
+	</Name>
+	<Name ID="118">
+		<SourceName>__ne__ k t a</SourceName>
+		<TargetName ID="1">क े ट ा</TargetName>
+	</Name>
+	<Name ID="119">
+		<SourceName>__ne__ b a h i r i</SourceName>
+		<TargetName ID="1">ब ह ि र ी</TargetName>
+	</Name>
+	<Name ID="120">
+		<SourceName>__ne__ r a k h a</SourceName>
+		<TargetName ID="1">र ा ख</TargetName>
+	</Name>
+	<Name ID="121">
+		<SourceName>__ne__ m a n i s</SourceName>
+		<TargetName ID="1">म ा न ि स</TargetName>
+	</Name>
+	<Name ID="122">
+		<SourceName>__ne__ n i s a n t a n</SourceName>
+		<TargetName ID="1">न ि स न ् त ा न</TargetName>
+	</Name>
+	<Name ID="123">
+		<SourceName>__ne__ b h u m i k a</SourceName>
+		<TargetName ID="1">भ ू म ि क ा</TargetName>
+	</Name>
+	<Name ID="124">
+		<SourceName>__ne__ s e t o</SourceName>
+		<TargetName ID="1">स े त ो</TargetName>
+	</Name>
+	<Name ID="125">
+		<SourceName>__ne__ b i w a h i t</SourceName>
+		<TargetName ID="1">व ि व ा ह ि त</TargetName>
+	</Name>
+	<Name ID="126">
+		<SourceName>__ne__ l i d h a</SourceName>
+		<TargetName ID="1">ल ि द ा</TargetName>
+	</Name>
+	<Name ID="127">
+		<SourceName>__ne__ g a r d e i n a</SourceName>
+		<TargetName ID="1">ग र ् द ै न</TargetName>
+	</Name>
+	<Name ID="128">
+		<SourceName>__ne__ r o k n e y</SourceName>
+		<TargetName ID="1">र ो क ् न े</TargetName>
+	</Name>
+	<Name ID="129">
+		<SourceName>__ne__ a b i b a h i t</SourceName>
+		<TargetName ID="1">अ ब ि ब ा ह ि त</TargetName>
+	</Name>
+	<Name ID="130">
+		<SourceName>__ne__ y e u t a</SourceName>
+		<TargetName ID="1">ए उ ट ा</TargetName>
+	</Name>
+	<Name ID="131">
+		<SourceName>__ne__ a w a s t h a</SourceName>
+		<TargetName ID="1">अ व स ् थ ा</TargetName>
+	</Name>
+	<Name ID="132">
+		<SourceName>__ne__ g a n a u n e</SourceName>
+		<TargetName ID="1">ग न ा उ न े</TargetName>
+	</Name>
+	<Name ID="133">
+		<SourceName>__ne__ b i t i k a i</SourceName>
+		<TargetName ID="1">ब ि त ि क ै</TargetName>
+	</Name>
+	<Name ID="134">
+		<SourceName>__ne__ s u d h a r k a</SourceName>
+		<TargetName ID="1">स ु ध ा र क ा</TargetName>
+	</Name>
+	<Name ID="135">
+		<SourceName>__ne__ b a g e r a</SourceName>
+		<TargetName ID="1">ब ग े र</TargetName>
+	</Name>
+	<Name ID="136">
+		<SourceName>__ne__ w t l o s s</SourceName>
+		<TargetName ID="1">ड ब ् ल ् य ू ट ल ो स</TargetName>
+	</Name>
+	<Name ID="137">
+		<SourceName>__ne__ w a r i</SourceName>
+		<TargetName ID="1">व ा र ी</TargetName>
+	</Name>
+	<Name ID="138">
+		<SourceName>__ne__ d e k h n a y</SourceName>
+		<TargetName ID="1">द े ख ् न े</TargetName>
+	</Name>
+	<Name ID="139">
+		<SourceName>__ne__ k h u w a u n a</SourceName>
+		<TargetName ID="1">ख ु व ा उ न</TargetName>
+	</Name>
+	<Name ID="140">
+		<SourceName>__ne__ b h a b i s y a m a</SourceName>
+		<TargetName ID="1">भ व ि ष ् य म ा</TargetName>
+	</Name>
+	<Name ID="141">
+		<SourceName>__ne__ p a r n</SourceName>
+		<TargetName ID="1">प र ् न</TargetName>
+	</Name>
+	<Name ID="142">
+		<SourceName>__ne__ c y c e l</SourceName>
+		<TargetName ID="1">स ा इ स े ल</TargetName>
+	</Name>
+	<Name ID="143">
+		<SourceName>__ne__ b a c h a n e</SourceName>
+		<TargetName ID="1">ब च न े</TargetName>
+	</Name>
+	<Name ID="144">
+		<SourceName>__ne__ s a k h x a</SourceName>
+		<TargetName ID="1">स क ् छ</TargetName>
+	</Name>
+	<Name ID="145">
+		<SourceName>__ne__ p u r y a u n x a</SourceName>
+		<TargetName ID="1">प ु र ् य ा उ ँ छ</TargetName>
+	</Name>
+	<Name ID="146">
+		<SourceName>__ne__ m a m</SourceName>
+		<TargetName ID="1">म ा म</TargetName>
+	</Name>
+	<Name ID="147">
+		<SourceName>__ne__ g a r d a a</SourceName>
+		<TargetName ID="1">ग र ् द ा</TargetName>
+	</Name>
+	<Name ID="148">
+		<SourceName>__ne__ k o n s a m b h a b n</SourceName>
+		<TargetName ID="1">क ो ण स म ् भ ा ब न</TargetName>
+	</Name>
+	<Name ID="149">
+		<SourceName>__ne__ t i t o</SourceName>
+		<TargetName ID="1">त ि त ो</TargetName>
+	</Name>
+	<Name ID="150">
+		<SourceName>__ne__ a d h i k a r</SourceName>
+		<TargetName ID="1">अ ध ि क ा र</TargetName>
+	</Name>
+	<Name ID="151">
+		<SourceName>__ne__ f a r a k h</SourceName>
+		<TargetName ID="1">फ र क</TargetName>
+	</Name>
+	<Name ID="152">
+		<SourceName>__ne__ d a i n i k</SourceName>
+		<TargetName ID="1">द ै न ि क</TargetName>
+	</Name>
+	<Name ID="153">
+		<SourceName>__ne__ d e k h y a</SourceName>
+		<TargetName ID="1">द े ख ् य ा</TargetName>
+	</Name>
+	<Name ID="154">
+		<SourceName>__ne__ k a p</SourceName>
+		<TargetName ID="1">क प</TargetName>
+	</Name>
+	<Name ID="155">
+		<SourceName>__ne__ s a m p a r k k a</SourceName>
+		<TargetName ID="1">स म ् प र ् क क ा</TargetName>
+	</Name>
+	<Name ID="156">
+		<SourceName>__ne__ a g a d h i</SourceName>
+		<TargetName ID="1">अ ग ा ड ी</TargetName>
+	</Name>
+	<Name ID="157">
+		<SourceName>__ne__ s a a m</SourceName>
+		<TargetName ID="1">स ा म</TargetName>
+	</Name>
+	<Name ID="158">
+		<SourceName>__ne__ k e n d r a</SourceName>
+		<TargetName ID="1">क े न ् द ् र</TargetName>
+	</Name>
+	<Name ID="159">
+		<SourceName>__ne__ d o o d h</SourceName>
+		<TargetName ID="1">द ू ध</TargetName>
+	</Name>
+	<Name ID="160">
+		<SourceName>__ne__ p a h e l o</SourceName>
+		<TargetName ID="1">प ह ि ल ो</TargetName>
+	</Name>
+	<Name ID="161">
+		<SourceName>__ne__ a a k i n x a</SourceName>
+		<TargetName ID="1">आ क ि न ् छ</TargetName>
+	</Name>
+	<Name ID="162">
+		<SourceName>__ne__ c h a i i</SourceName>
+		<TargetName ID="1">च ा ई</TargetName>
+	</Name>
+	<Name ID="163">
+		<SourceName>__ne__ m a h i n a k o</SourceName>
+		<TargetName ID="1">म ह ि न ा क ो</TargetName>
+	</Name>
+	<Name ID="164">
+		<SourceName>__ne__ j h a r x</SourceName>
+		<TargetName ID="1">झ र ् छ</TargetName>
+	</Name>
+	<Name ID="165">
+		<SourceName>__ne__ k a n d o m</SourceName>
+		<TargetName ID="1">क ण ् ड ो म</TargetName>
+	</Name>
+	<Name ID="166">
+		<SourceName>__ne__ s u k h a</SourceName>
+		<TargetName ID="1">स ु ख</TargetName>
+	</Name>
+	<Name ID="167">
+		<SourceName>__ne__ t e s l e</SourceName>
+		<TargetName ID="1">त ् य स ल े</TargetName>
+	</Name>
+	<Name ID="168">
+		<SourceName>__ne__ n a p a u g i</SourceName>
+		<TargetName ID="1">न प ु ग ी</TargetName>
+	</Name>
+	<Name ID="169">
+		<SourceName>__ne__ m a d h y a</SourceName>
+		<TargetName ID="1">म ध ् य</TargetName>
+	</Name>
+	<Name ID="170">
+		<SourceName>__ne__ b a c c h a a</SourceName>
+		<TargetName ID="1">ब च ् च ा</TargetName>
+	</Name>
+	<Name ID="171">
+		<SourceName>__ne__ a u n u</SourceName>
+		<TargetName ID="1">आ उ न ु</TargetName>
+	</Name>
+	<Name ID="172">
+		<SourceName>__ne__ l a g i r a c h a</SourceName>
+		<TargetName ID="1">ल ा ग ि र ा छ</TargetName>
+	</Name>
+	<Name ID="173">
+		<SourceName>__ne__ n a p u g a d a i</SourceName>
+		<TargetName ID="1">न प ु ग ् द ै</TargetName>
+	</Name>
+	<Name ID="174">
+		<SourceName>__ne__ s u r c h x a</SourceName>
+		<TargetName ID="1">स ु र क ् ष ा</TargetName>
+	</Name>
+	<Name ID="175">
+		<SourceName>__ne__ g a y a r a</SourceName>
+		<TargetName ID="1">ग ए र</TargetName>
+	</Name>
+	<Name ID="176">
+		<SourceName>__ne__ b a b a</SourceName>
+		<TargetName ID="1">ब ा ब ा</TargetName>
+	</Name>
+	<Name ID="177">
+		<SourceName>__ne__ s h r e m a t i</SourceName>
+		<TargetName ID="1">श ् र ी म त ी</TargetName>
+	</Name>
+	<Name ID="178">
+		<SourceName>__ne__ b a s c h a</SourceName>
+		<TargetName ID="1">ब स ् छ</TargetName>
+	</Name>
+	<Name ID="179">
+		<SourceName>__ne__ a a k p a t k</SourceName>
+		<TargetName ID="1">ए क प ट क</TargetName>
+	</Name>
+	<Name ID="180">
+		<SourceName>__ne__ k h a r a b</SourceName>
+		<TargetName ID="1">ख र ा ब</TargetName>
+	</Name>
+	<Name ID="181">
+		<SourceName>__ne__ t y a s k o</SourceName>
+		<TargetName ID="1">त ् य स क ो</TargetName>
+	</Name>
+	<Name ID="182">
+		<SourceName>__ne__ m a n l a g n u</SourceName>
+		<TargetName ID="1">म न ल ा ग ् न ु</TargetName>
+	</Name>
+	<Name ID="183">
+		<SourceName>__ne__ u p a y o u t</SourceName>
+		<TargetName ID="1">उ प य ु क ् त</TargetName>
+	</Name>
+	<Name ID="184">
+		<SourceName>__ne__ s u n i n u</SourceName>
+		<TargetName ID="1">स ु न ि न ु</TargetName>
+	</Name>
+	<Name ID="185">
+		<SourceName>__ne__ m a h i n a w a r i</SourceName>
+		<TargetName ID="1">म ह ि न ा व ा र ी</TargetName>
+	</Name>
+	<Name ID="186">
+		<SourceName>__ne__ a w a s t h</SourceName>
+		<TargetName ID="1">अ व स ् थ</TargetName>
+	</Name>
+	<Name ID="187">
+		<SourceName>__ne__ c h o d n a</SourceName>
+		<TargetName ID="1">छ ो ड ् न</TargetName>
+	</Name>
+	<Name ID="188">
+		<SourceName>__ne__ d e k h i n</SourceName>
+		<TargetName ID="1">द े ख ि न</TargetName>
+	</Name>
+	<Name ID="189">
+		<SourceName>__ne__ d h h i r i</SourceName>
+		<TargetName ID="1">ध े र ै</TargetName>
+	</Name>
+	<Name ID="190">
+		<SourceName>__ne__ m a h i n a b a r i</SourceName>
+		<TargetName ID="1">म ह ि न ा व ा र ी</TargetName>
+	</Name>
+	<Name ID="191">
+		<SourceName>__ne__ c h o</SourceName>
+		<TargetName ID="1">च ो</TargetName>
+	</Name>
+	<Name ID="192">
+		<SourceName>__ne__ u m e r k a</SourceName>
+		<TargetName ID="1">उ म े र क ा</TargetName>
+	</Name>
+	<Name ID="193">
+		<SourceName>__ne__ k h a y e p a c h i</SourceName>
+		<TargetName ID="1">ख ा ए प छ ि</TargetName>
+	</Name>
+	<Name ID="194">
+		<SourceName>__ne__ p a r a u x</SourceName>
+		<TargetName ID="1">प र ा उ छ</TargetName>
+	</Name>
+	<Name ID="195">
+		<SourceName>__ne__ m a n c h e</SourceName>
+		<TargetName ID="1">म ा न ् छ े</TargetName>
+	</Name>
+	<Name ID="196">
+		<SourceName>__ne__ x o r a</SourceName>
+		<TargetName ID="1">छ ो र ा</TargetName>
+	</Name>
+	<Name ID="197">
+		<SourceName>__ne__ s a d h a a n</SourceName>
+		<TargetName ID="1">स ा ध न</TargetName>
+	</Name>
+	<Name ID="198">
+		<SourceName>__ne__ c h a m k i</SourceName>
+		<TargetName ID="1">च म ् क ी</TargetName>
+	</Name>
+	<Name ID="199">
+		<SourceName>__ne__ b u d a</SourceName>
+		<TargetName ID="1">ब ु ढ ा</TargetName>
+	</Name>
+	<Name ID="200">
+		<SourceName>__ne__ m a l a e</SourceName>
+		<TargetName ID="1">म ल ा ई</TargetName>
+	</Name>
+	<Name ID="201">
+		<SourceName>__ne__ g a r w a</SourceName>
+		<TargetName ID="1">ग र ् व</TargetName>
+	</Name>
+	<Name ID="202">
+		<SourceName>__ne__ u l t o</SourceName>
+		<TargetName ID="1">उ ल ् ट ो</TargetName>
+	</Name>
+	<Name ID="203">
+		<SourceName>__ne__ l e h</SourceName>
+		<TargetName ID="1">ल े</TargetName>
+	</Name>
+	<Name ID="204">
+		<SourceName>__ne__ l a g e k o c h u</SourceName>
+		<TargetName ID="1">ल ा ग े क ो छ ु</TargetName>
+	</Name>
+	<Name ID="205">
+		<SourceName>__ne__ t o k e y a</SourceName>
+		<TargetName ID="1">त ो क ि ए</TargetName>
+	</Name>
+	<Name ID="206">
+		<SourceName>__ne__ r o k e</SourceName>
+		<TargetName ID="1">र ो क े</TargetName>
+	</Name>
+	<Name ID="207">
+		<SourceName>__ne__ s a m b h n d a</SourceName>
+		<TargetName ID="1">स म ् ब न ् ध</TargetName>
+	</Name>
+	<Name ID="208">
+		<SourceName>__ne__ t h i t i</SourceName>
+		<TargetName ID="1">थ ि त ि</TargetName>
+	</Name>
+	<Name ID="209">
+		<SourceName>__ne__ b a r s h a</SourceName>
+		<TargetName ID="1">ब र ् ष</TargetName>
+	</Name>
+	<Name ID="210">
+		<SourceName>__ne__ c h h e m t a</SourceName>
+		<TargetName ID="1">क ् ष म त ा</TargetName>
+	</Name>
+	<Name ID="211">
+		<SourceName>__ne__ b a g i r a k h n a</SourceName>
+		<TargetName ID="1">ब ग ि र ा ख ् न</TargetName>
+	</Name>
+	<Name ID="212">
+		<SourceName>__ne__ r a m r i</SourceName>
+		<TargetName ID="1">र ा म ् र ी</TargetName>
+	</Name>
+	<Name ID="213">
+		<SourceName>__ne__ v a a s e</SourceName>
+		<TargetName ID="1">भ ए स ी</TargetName>
+	</Name>
+	<Name ID="214">
+		<SourceName>__ne__ h a r e k d i n</SourceName>
+		<TargetName ID="1">ह र े क द ि न</TargetName>
+	</Name>
+	<Name ID="215">
+		<SourceName>__ne__ k h a r t a</SourceName>
+		<TargetName ID="1">ख र ् त ा</TargetName>
+	</Name>
+	<Name ID="216">
+		<SourceName>__ne__ k a m j o r</SourceName>
+		<TargetName ID="1">क म ज ो र</TargetName>
+	</Name>
+	<Name ID="217">
+		<SourceName>__ne__ p a c h a d i</SourceName>
+		<TargetName ID="1">प छ ा ड ि</TargetName>
+	</Name>
+	<Name ID="218">
+		<SourceName>__ne__ x y n a</SourceName>
+		<TargetName ID="1">छ ै न</TargetName>
+	</Name>
+	<Name ID="219">
+		<SourceName>__ne__ p u g n a</SourceName>
+		<TargetName ID="1">प ु ग ् न</TargetName>
+	</Name>
+	<Name ID="220">
+		<SourceName>__ne__ h e r c a h a</SourceName>
+		<TargetName ID="1">ह े र ् छ</TargetName>
+	</Name>
+	<Name ID="221">
+		<SourceName>__ne__ g u n a s t a r</SourceName>
+		<TargetName ID="1">ग ु ण स ् त र</TargetName>
+	</Name>
+	<Name ID="222">
+		<SourceName>__ne__ p r a y i n g</SourceName>
+		<TargetName ID="1">प ् र े इ ङ</TargetName>
+	</Name>
+	<Name ID="223">
+		<SourceName>__ne__ d h e r i i</SourceName>
+		<TargetName ID="1">ध े र ै</TargetName>
+	</Name>
+	<Name ID="224">
+		<SourceName>__ne__ a b s t a</SourceName>
+		<TargetName ID="1">अ व स ् थ ा</TargetName>
+	</Name>
+	<Name ID="225">
+		<SourceName>__ne__ v a i s a k y o</SourceName>
+		<TargetName ID="1">भ इ स क ् य ो</TargetName>
+	</Name>
+	<Name ID="226">
+		<SourceName>__ne__ s a k i n x a a</SourceName>
+		<TargetName ID="1">स क ि न ् छ</TargetName>
+	</Name>
+	<Name ID="227">
+		<SourceName>__ne__ k a s t a r i</SourceName>
+		<TargetName ID="1">क स ् त र ी</TargetName>
+	</Name>
+	<Name ID="228">
+		<SourceName>__ne__ g h a t c h h a</SourceName>
+		<TargetName ID="1">घ ट ् छ</TargetName>
+	</Name>
+	<Name ID="229">
+		<SourceName>__ne__ s a m v a v</SourceName>
+		<TargetName ID="1">स म ् भ व</TargetName>
+	</Name>
+	<Name ID="230">
+		<SourceName>__ne__ h u m e</SourceName>
+		<TargetName ID="1">ह ् य ु म</TargetName>
+	</Name>
+	<Name ID="232">
+		<SourceName>__ne__ u m a r</SourceName>
+		<TargetName ID="1">उ म र</TargetName>
+	</Name>
+	<Name ID="233">
+		<SourceName>__ne__ d u k h x</SourceName>
+		<TargetName ID="1">द ु ख ् छ</TargetName>
+	</Name>
+	<Name ID="234">
+		<SourceName>__ne__ a s o</SourceName>
+		<TargetName ID="1">अ स ो</TargetName>
+	</Name>
+	<Name ID="235">
+		<SourceName>__ne__ n e e</SourceName>
+		<TargetName ID="1">न ी</TargetName>
+	</Name>
+	<Name ID="236">
+		<SourceName>__ne__ g r e y r w</SourceName>
+		<TargetName ID="1">ग र ा ए र</TargetName>
+	</Name>
+	<Name ID="237">
+		<SourceName>__ne__ j a n a m</SourceName>
+		<TargetName ID="1">ज न ् म</TargetName>
+	</Name>
+	<Name ID="238">
+		<SourceName>__ne__ g a h i r o</SourceName>
+		<TargetName ID="1">ग ह ि र ो</TargetName>
+	</Name>
+	<Name ID="239">
+		<SourceName>__ne__ u p a y a</SourceName>
+		<TargetName ID="1">उ प ा य</TargetName>
+	</Name>
+	<Name ID="240">
+		<SourceName>__ne__ d a j u</SourceName>
+		<TargetName ID="1">द ा ज ु</TargetName>
+	</Name>
+	<Name ID="241">
+		<SourceName>__ne__ g a d b a d i</SourceName>
+		<TargetName ID="1">ग ड ब ड ी</TargetName>
+	</Name>
+	<Name ID="242">
+		<SourceName>__ne__ v h i y o</SourceName>
+		<TargetName ID="1">भ य ो</TargetName>
+	</Name>
+	<Name ID="243">
+		<SourceName>__ne__ l a g n i</SourceName>
+		<TargetName ID="1">ल ा ग ् न ी</TargetName>
+	</Name>
+	<Name ID="244">
+		<SourceName>__ne__ d u i i</SourceName>
+		<TargetName ID="1">द ु ई</TargetName>
+	</Name>
+	<Name ID="245">
+		<SourceName>__ne__ s o c h n a</SourceName>
+		<TargetName ID="1">स ो च ् न</TargetName>
+	</Name>
+	<Name ID="246">
+		<SourceName>__ne__ s a m b h o k m a</SourceName>
+		<TargetName ID="1">स म ् भ ो ग म ा</TargetName>
+	</Name>
+	<Name ID="247">
+		<SourceName>__ne__ x o r e</SourceName>
+		<TargetName ID="1">छ ो र े</TargetName>
+	</Name>
+	<Name ID="248">
+		<SourceName>__ne__ n a j a n m a u n e</SourceName>
+		<TargetName ID="1">न ज न ् म ा उ न े</TargetName>
+	</Name>
+	<Name ID="249">
+		<SourceName>__ne__ h u d h a</SourceName>
+		<TargetName ID="1">ह ु द ा</TargetName>
+	</Name>
+	<Name ID="250">
+		<SourceName>__ne__ b a d h a y k a r a d</SourceName>
+		<TargetName ID="1">ब ध ् य क र ण</TargetName>
+	</Name>
+	<Name ID="251">
+		<SourceName>__ne__ s a k x a n</SourceName>
+		<TargetName ID="1">स क ् छ न ्</TargetName>
+	</Name>
+	<Name ID="252">
+		<SourceName>__ne__ m a n d a i</SourceName>
+		<TargetName ID="1">म ा न ् द ै</TargetName>
+	</Name>
+	<Name ID="253">
+		<SourceName>__ne__ a a e e r a n</SourceName>
+		<TargetName ID="1">आ इ र न</TargetName>
+	</Name>
+	<Name ID="254">
+		<SourceName>__ne__ p a r n a</SourceName>
+		<TargetName ID="1">प र ् न</TargetName>
+	</Name>
+	<Name ID="255">
+		<SourceName>__ne__ j h a r x a</SourceName>
+		<TargetName ID="1">झ र ् छ</TargetName>
+	</Name>
+	<Name ID="256">
+		<SourceName>__ne__ s a k c h i n</SourceName>
+		<TargetName ID="1">स क ् छ ि न ्</TargetName>
+	</Name>
+	<Name ID="257">
+		<SourceName>__ne__ p a r d a c h h a n</SourceName>
+		<TargetName ID="1">प र ् द छ न ्</TargetName>
+	</Name>
+	<Name ID="258">
+		<SourceName>__ne__ d e k o</SourceName>
+		<TargetName ID="1">द े क ो</TargetName>
+	</Name>
+	<Name ID="259">
+		<SourceName>__ne__ l a k x y a n</SourceName>
+		<TargetName ID="1">ल क ् ष ् य न</TargetName>
+	</Name>
+	<Name ID="260">
+		<SourceName>__ne__ k h a a n u</SourceName>
+		<TargetName ID="1">ख ा न ु</TargetName>
+	</Name>
+	<Name ID="261">
+		<SourceName>__ne__ p r a b h a v</SourceName>
+		<TargetName ID="1">प ् र भ ा व</TargetName>
+	</Name>
+	<Name ID="262">
+		<SourceName>__ne__ d u r b a s n a</SourceName>
+		<TargetName ID="1">द ु र ् ब ा स न ा</TargetName>
+	</Name>
+	<Name ID="263">
+		<SourceName>__ne__ l a k x a n</SourceName>
+		<TargetName ID="1">ल क ् ष ण</TargetName>
+	</Name>
+	<Name ID="264">
+		<SourceName>__ne__ k h o p</SourceName>
+		<TargetName ID="1">ख ो प</TargetName>
+	</Name>
+	<Name ID="265">
+		<SourceName>__ne__ l a l i</SourceName>
+		<TargetName ID="1">ल ा ल ी</TargetName>
+	</Name>
+	<Name ID="266">
+		<SourceName>__ne__ r a k t a</SourceName>
+		<TargetName ID="1">र क ् त</TargetName>
+	</Name>
+	<Name ID="267">
+		<SourceName>__ne__ p u r o s</SourceName>
+		<TargetName ID="1">प ु र ो स ्</TargetName>
+	</Name>
+	<Name ID="268">
+		<SourceName>__ne__ r a b a t</SourceName>
+		<TargetName ID="1">र ा ब त</TargetName>
+	</Name>
+	<Name ID="269">
+		<SourceName>__ne__ u p a</SourceName>
+		<TargetName ID="1">उ प</TargetName>
+	</Name>
+	<Name ID="270">
+		<SourceName>__ne__ d h a d</SourceName>
+		<TargetName ID="1">ढ ा ड</TargetName>
+	</Name>
+	<Name ID="271">
+		<SourceName>__ne__ a r k a</SourceName>
+		<TargetName ID="1">अ र ् क ा</TargetName>
+	</Name>
+	<Name ID="272">
+		<SourceName>__ne__ d i p o</SourceName>
+		<TargetName ID="1">ड ि प ो</TargetName>
+	</Name>
+	<Name ID="273">
+		<SourceName>__ne__ b a d h n e</SourceName>
+		<TargetName ID="1">ब ढ ् न े</TargetName>
+	</Name>
+	<Name ID="274">
+		<SourceName>__ne__ a n b a s t h a m a</SourceName>
+		<TargetName ID="1">अ न ् ब स ् थ ा म ा</TargetName>
+	</Name>
+	<Name ID="275">
+		<SourceName>__ne__ s a k i n c h</SourceName>
+		<TargetName ID="1">स क ि न ् छ</TargetName>
+	</Name>
+	<Name ID="276">
+		<SourceName>__ne__ j a n m a y e m a</SourceName>
+		<TargetName ID="1">ज न ् म ा ए म ा</TargetName>
+	</Name>
+	<Name ID="277">
+		<SourceName>__ne__ g a r a u n e y</SourceName>
+		<TargetName ID="1">ग र ा उ न े</TargetName>
+	</Name>
+	<Name ID="278">
+		<SourceName>__ne__ b h a s a m a</SourceName>
+		<TargetName ID="1">भ ा ष ा म ा</TargetName>
+	</Name>
+	<Name ID="280">
+		<SourceName>__ne__ l h a n e</SourceName>
+		<TargetName ID="1">ल ा न े</TargetName>
+	</Name>
+	<Name ID="281">
+		<SourceName>__ne__ h u n e y</SourceName>
+		<TargetName ID="1">ह ु न े</TargetName>
+	</Name>
+	<Name ID="282">
+		<SourceName>__ne__ b l o o d i n g</SourceName>
+		<TargetName ID="1">ब ् ल ड ि ङ</TargetName>
+	</Name>
+	<Name ID="283">
+		<SourceName>__ne__ p a h i l o</SourceName>
+		<TargetName ID="1">प ह ि ल ो</TargetName>
+	</Name>
+	<Name ID="284">
+		<SourceName>__ne__ s a k i n i</SourceName>
+		<TargetName ID="1">स क ि न ी</TargetName>
+	</Name>
+	<Name ID="285">
+		<SourceName>__ne__ s w a s t h y</SourceName>
+		<TargetName ID="1">स ् व स ् थ ् य</TargetName>
+	</Name>
+	<Name ID="286">
+		<SourceName>__ne__ g a u</SourceName>
+		<TargetName ID="1">ग ा उ</TargetName>
+	</Name>
+	<Name ID="287">
+		<SourceName>__ne__ r a g h a t</SourceName>
+		<TargetName ID="1">र ग त</TargetName>
+	</Name>
+	<Name ID="288">
+		<SourceName>__ne__ y o u n i k o</SourceName>
+		<TargetName ID="1">य ो न ी क ो</TargetName>
+	</Name>
+	<Name ID="289">
+		<SourceName>__ne__ g a a r u n e</SourceName>
+		<TargetName ID="1">ग र ा उ न े</TargetName>
+	</Name>
+	<Name ID="290">
+		<SourceName>__ne__ b a n i</SourceName>
+		<TargetName ID="1">ब ा न ी</TargetName>
+	</Name>
+	<Name ID="291">
+		<SourceName>__ne__ y o n s a m b a d h</SourceName>
+		<TargetName ID="1">य ो न स म ् ब ध</TargetName>
+	</Name>
+	<Name ID="292">
+		<SourceName>__ne__ b a c h a u n a</SourceName>
+		<TargetName ID="1">ब च ा उ न</TargetName>
+	</Name>
+	<Name ID="293">
+		<SourceName>__ne__ c h i r a i t o</SourceName>
+		<TargetName ID="1">च ि र ा इ त ो</TargetName>
+	</Name>
+	<Name ID="294">
+		<SourceName>__ne__ h u n e h</SourceName>
+		<TargetName ID="1">ह ु न े ः</TargetName>
+	</Name>
+	<Name ID="295">
+		<SourceName>__ne__ b h a n a</SourceName>
+		<TargetName ID="1">भ न</TargetName>
+	</Name>
+	<Name ID="296">
+		<SourceName>__ne__ l a a g n u</SourceName>
+		<TargetName ID="1">ल ा ग ् न ु</TargetName>
+	</Name>
+	<Name ID="297">
+		<SourceName>__ne__ v h y a o</SourceName>
+		<TargetName ID="1">भ य ो</TargetName>
+	</Name>
+	<Name ID="298">
+		<SourceName>__ne__ p r a j n n a</SourceName>
+		<TargetName ID="1">प ् र ज न ् न</TargetName>
+	</Name>
+	<Name ID="299">
+		<SourceName>__ne__ c h o t e</SourceName>
+		<TargetName ID="1">छ ो ट े</TargetName>
+	</Name>
+</TransliterationCorpus>

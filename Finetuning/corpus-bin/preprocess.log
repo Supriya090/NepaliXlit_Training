@@ -1,0 +1,60 @@
+Namespace(no_progress_bar=False, log_interval=100, log_format=None, log_file=None, aim_repo=None, aim_run_hash=None, tensorboard_logdir=None, wandb_project=None, azureml_logging=False, seed=1, cpu=False, tpu=False, bf16=False, memory_efficient_bf16=False, fp16=False, memory_efficient_fp16=False, fp16_no_flatten_grads=False, fp16_init_scale=128, fp16_scale_window=None, fp16_scale_tolerance=0.0, on_cpu_convert_precision=False, min_loss_scale=0.0001, threshold_loss_scale=None, amp=False, amp_batch_retries=2, amp_init_scale=128, amp_scale_window=None, user_dir=None, empty_cache_freq=0, all_gather_list_size=16384, model_parallel_size=1, quantization_config_path=None, profile=False, reset_logging=False, suppress_crashes=False, use_plasma_view=False, plasma_path='/tmp/plasma', criterion='cross_entropy', tokenizer=None, bpe=None, optimizer=None, lr_scheduler='fixed', scoring='bleu', task='translation', source_lang='en', target_lang='ne', trainpref='corpus/train_ne', validpref='corpus/valid_ne', testpref='corpus/test_ne', align_suffix=None, destdir='corpus-bin', thresholdtgt=0, thresholdsrc=0, tgtdict='corpus-bin/dict.ne.txt', srcdict='corpus-bin/dict.en.txt', nwordstgt=-1, nwordssrc=-1, alignfile=None, dataset_impl='mmap', joined_dictionary=False, only_source=False, padding_factor=8, workers=1, dict_only=False)
+[en] Dictionary: 32 types
+[en] corpus/train_ne.en: 1135 sents, 7479 tokens, 0.0% replaced (by <unk>)
+[en] Dictionary: 32 types
+Namespace(no_progress_bar=False, log_interval=100, log_format=None, log_file=None, aim_repo=None, aim_run_hash=None, tensorboard_logdir=None, wandb_project=None, azureml_logging=False, seed=1, cpu=False, tpu=False, bf16=False, memory_efficient_bf16=False, fp16=False, memory_efficient_fp16=False, fp16_no_flatten_grads=False, fp16_init_scale=128, fp16_scale_window=None, fp16_scale_tolerance=0.0, on_cpu_convert_precision=False, min_loss_scale=0.0001, threshold_loss_scale=None, amp=False, amp_batch_retries=2, amp_init_scale=128, amp_scale_window=None, user_dir=None, empty_cache_freq=0, all_gather_list_size=16384, model_parallel_size=1, quantization_config_path=None, profile=False, reset_logging=False, suppress_crashes=False, use_plasma_view=False, plasma_path='/tmp/plasma', criterion='cross_entropy', tokenizer=None, bpe=None, optimizer=None, lr_scheduler='fixed', scoring='bleu', task='translation', source_lang='en', target_lang='ne', trainpref='corpus/train_ne', validpref='corpus/valid_ne', testpref='corpus/test_ne', align_suffix=None, destdir='corpus-bin', thresholdtgt=0, thresholdsrc=0, tgtdict='corpus-bin/dict.ne.txt', srcdict='corpus-bin/dict.en.txt', nwordstgt=-1, nwordssrc=-1, alignfile=None, dataset_impl='mmap', joined_dictionary=False, only_source=False, padding_factor=8, workers=1, dict_only=False)
+[en] Dictionary: 32 types
+[en] corpus/train_ne.en: 1135 sents, 7479 tokens, 0.0% replaced (by <unk>)
+[en] Dictionary: 32 types
+[en] corpus/valid_ne.en: 243 sents, 1625 tokens, 0.0% replaced (by <unk>)
+[en] Dictionary: 32 types
+[en] corpus/test_ne.en: 243 sents, 1630 tokens, 0.0% replaced (by <unk>)
+[ne] Dictionary: 784 types
+[ne] corpus/train_ne.ne: 1135 sents, 6580 tokens, 0.0% replaced (by <unk>)
+[ne] Dictionary: 784 types
+[ne] corpus/valid_ne.ne: 243 sents, 1422 tokens, 0.0% replaced (by <unk>)
+[ne] Dictionary: 784 types
+[ne] corpus/test_ne.ne: 243 sents, 1419 tokens, 0.0% replaced (by <unk>)
+Wrote preprocessed data to corpus-bin
+Namespace(no_progress_bar=False, log_interval=100, log_format=None, log_file=None, aim_repo=None, aim_run_hash=None, tensorboard_logdir=None, wandb_project=None, azureml_logging=False, seed=1, cpu=False, tpu=False, bf16=False, memory_efficient_bf16=False, fp16=False, memory_efficient_fp16=False, fp16_no_flatten_grads=False, fp16_init_scale=128, fp16_scale_window=None, fp16_scale_tolerance=0.0, on_cpu_convert_precision=False, min_loss_scale=0.0001, threshold_loss_scale=None, amp=False, amp_batch_retries=2, amp_init_scale=128, amp_scale_window=None, user_dir=None, empty_cache_freq=0, all_gather_list_size=16384, model_parallel_size=1, quantization_config_path=None, profile=False, reset_logging=False, suppress_crashes=False, use_plasma_view=False, plasma_path='/tmp/plasma', criterion='cross_entropy', tokenizer=None, bpe=None, optimizer=None, lr_scheduler='fixed', scoring='bleu', task='translation', source_lang='en', target_lang='ne', trainpref='corpus/train_ne', validpref='corpus/valid_ne', testpref='corpus/test_ne', align_suffix=None, destdir='corpus-bin', thresholdtgt=0, thresholdsrc=0, tgtdict='corpus-bin/dict.ne.txt', srcdict='corpus-bin/dict.en.txt', nwordstgt=-1, nwordssrc=-1, alignfile=None, dataset_impl='mmap', joined_dictionary=False, only_source=False, padding_factor=8, workers=1, dict_only=False)
+[en] Dictionary: 32 types
+[en] corpus/train_ne.en: 1400 sents, 10340 tokens, 0.0% replaced (by <unk>)
+[en] Dictionary: 32 types
+[en] corpus/valid_ne.en: 300 sents, 2176 tokens, 0.0% replaced (by <unk>)
+[en] Dictionary: 32 types
+[en] corpus/test_ne.en: 299 sents, 2211 tokens, 0.0% replaced (by <unk>)
+[ne] Dictionary: 784 types
+[ne] corpus/train_ne.ne: 1400 sents, 9088 tokens, 0.011% replaced (by <unk>)
+[ne] Dictionary: 784 types
+[ne] corpus/valid_ne.ne: 300 sents, 1915 tokens, 0.0% replaced (by <unk>)
+[ne] Dictionary: 784 types
+[ne] corpus/test_ne.ne: 299 sents, 1935 tokens, 0.0% replaced (by <unk>)
+Wrote preprocessed data to corpus-bin
+Namespace(no_progress_bar=False, log_interval=100, log_format=None, log_file=None, aim_repo=None, aim_run_hash=None, tensorboard_logdir=None, wandb_project=None, azureml_logging=False, seed=1, cpu=False, tpu=False, bf16=False, memory_efficient_bf16=False, fp16=False, memory_efficient_fp16=False, fp16_no_flatten_grads=False, fp16_init_scale=128, fp16_scale_window=None, fp16_scale_tolerance=0.0, on_cpu_convert_precision=False, min_loss_scale=0.0001, threshold_loss_scale=None, amp=False, amp_batch_retries=2, amp_init_scale=128, amp_scale_window=None, user_dir=None, empty_cache_freq=0, all_gather_list_size=16384, model_parallel_size=1, quantization_config_path=None, profile=False, reset_logging=False, suppress_crashes=False, use_plasma_view=False, plasma_path='/tmp/plasma', criterion='cross_entropy', tokenizer=None, bpe=None, optimizer=None, lr_scheduler='fixed', scoring='bleu', task='translation', source_lang='en', target_lang='ne', trainpref='corpus/train_ne', validpref='corpus/valid_ne', testpref='corpus/test_ne', align_suffix=None, destdir='corpus-bin', thresholdtgt=0, thresholdsrc=0, tgtdict='corpus-bin/dict.ne.txt', srcdict='corpus-bin/dict.en.txt', nwordstgt=-1, nwordssrc=-1, alignfile=None, dataset_impl='mmap', joined_dictionary=False, only_source=False, padding_factor=8, workers=1, dict_only=False)
+[en] Dictionary: 32 types
+[en] corpus/train_ne.en: 1404 sents, 10362 tokens, 0.0% replaced (by <unk>)
+[en] Dictionary: 32 types
+[en] corpus/valid_ne.en: 300 sents, 2176 tokens, 0.0% replaced (by <unk>)
+[en] Dictionary: 32 types
+[en] corpus/test_ne.en: 299 sents, 2211 tokens, 0.0% replaced (by <unk>)
+[ne] Dictionary: 784 types
+[ne] corpus/train_ne.ne: 1404 sents, 9105 tokens, 0.011% replaced (by <unk>)
+[ne] Dictionary: 784 types
+[ne] corpus/valid_ne.ne: 300 sents, 1915 tokens, 0.0% replaced (by <unk>)
+[ne] Dictionary: 784 types
+[ne] corpus/test_ne.ne: 299 sents, 1935 tokens, 0.0% replaced (by <unk>)
+Wrote preprocessed data to corpus-bin
+Namespace(no_progress_bar=False, log_interval=100, log_format=None, log_file=None, aim_repo=None, aim_run_hash=None, tensorboard_logdir=None, wandb_project=None, azureml_logging=False, seed=1, cpu=False, tpu=False, bf16=False, memory_efficient_bf16=False, fp16=False, memory_efficient_fp16=False, fp16_no_flatten_grads=False, fp16_init_scale=128, fp16_scale_window=None, fp16_scale_tolerance=0.0, on_cpu_convert_precision=False, min_loss_scale=0.0001, threshold_loss_scale=None, amp=False, amp_batch_retries=2, amp_init_scale=128, amp_scale_window=None, user_dir=None, empty_cache_freq=0, all_gather_list_size=16384, model_parallel_size=1, quantization_config_path=None, profile=False, reset_logging=False, suppress_crashes=False, use_plasma_view=False, plasma_path='/tmp/plasma', criterion='cross_entropy', tokenizer=None, bpe=None, optimizer=None, lr_scheduler='fixed', scoring='bleu', task='translation', source_lang='en', target_lang='ne', trainpref='corpus/train_ne', validpref='corpus/valid_ne', testpref='corpus/test_ne', align_suffix=None, destdir='corpus-bin', thresholdtgt=0, thresholdsrc=0, tgtdict='corpus-bin/dict.ne.txt', srcdict='corpus-bin/dict.en.txt', nwordstgt=-1, nwordssrc=-1, alignfile=None, dataset_impl='mmap', joined_dictionary=False, only_source=False, padding_factor=8, workers=1, dict_only=False)
+[en] Dictionary: 32 types
+[en] corpus/train_ne.en: 2575 sents, 17640 tokens, 0.0113% replaced (by <unk>)
+[en] Dictionary: 32 types
+[en] corpus/valid_ne.en: 552 sents, 4124 tokens, 0.0% replaced (by <unk>)
+[en] Dictionary: 32 types
+[en] corpus/test_ne.en: 552 sents, 4026 tokens, 0.0% replaced (by <unk>)
+[ne] Dictionary: 784 types
+[ne] corpus/train_ne.ne: 2575 sents, 15513 tokens, 0.0193% replaced (by <unk>)
+[ne] Dictionary: 784 types
+[ne] corpus/valid_ne.ne: 552 sents, 3603 tokens, 0.0% replaced (by <unk>)
+[ne] Dictionary: 784 types
+[ne] corpus/test_ne.ne: 552 sents, 3532 tokens, 0.0% replaced (by <unk>)
+Wrote preprocessed data to corpus-bin

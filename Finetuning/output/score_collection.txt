@@ -1,0 +1,38 @@
+Phase 1:
+ACC:          0.662500
+Mean F-score: 0.928140
+MRR:          0.757986
+MAP_ref:      0.662500
+ACC@10:       0.883333
+CharACC:       0.875122
+
+==============
+
+Phase 2:
+
+IndicXlit
+------
+ACC:          0.462838
+Mean F-score: 0.877380
+MRR:          0.540259
+MAP_ref:      0.462838
+ACC@10:       0.655405
+CharACC:       0.801036
+
+Checkpoint_MoneyMitra
+--------
+ACC:          0.655405
+Mean F-score: 0.935512
+MRR:          0.731700
+MAP_ref:      0.655405
+ACC@10:       0.831081
+CharACC:       0.907934
+
+Checkpoint_Latest
+--------
+ACC:          0.679054
+Mean F-score: 0.941215
+MRR:          0.758164
+MAP_ref:      0.679054
+ACC@10:       0.854730
+CharACC:       0.918287
